@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content='width=device-width', initial-scale=1">
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>Nethical's website</title>
+    {% endif %}
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <nav id="heade">
+  <header>
+    <a href="/">Nethical</a>&nbsp;
+    <nav>
+      <a href="/about">About</a>&nbsp;
+      <a href="/contact">Contact</a>&nbsp;
+      <a href="/creations">Creations</a>&nbsp;
+      <a href="/blog">Blogs</a> 
+    </nav>
+  </header>
+  <div id="content">
+    {% block content %} {% endblock %}
+  </div>
+</body>
+
+</html>
