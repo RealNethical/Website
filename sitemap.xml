@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://nethical.me/</loc>
+    </url>
+    <url>
+        <loc>https://nethical.me/about/</loc>
+    </url>
+    <url>
+        <loc>https://nethical.me/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nethical.me/blog/empty/</loc>
+        <lastmod>2022-08-09</lastmod>
+    </url>
+    <url>
+        <loc>https://nethical.me/blog/poemaphasia/</loc>
+        <lastmod>2022-09-03</lastmod>
+    </url>
+    <url>
+        <loc>https://nethical.me/blog/poemsad/</loc>
+        <lastmod>2022-09-01</lastmod>
+    </url>
+    <url>
+        <loc>https://nethical.me/contact/</loc>
+    </url>
+    <url>
+        <loc>https://nethical.me/creations/</loc>
+    </url>
+    <url>
+        <loc>https://nethical.me/files/</loc>
+    </url>
+</urlset>
